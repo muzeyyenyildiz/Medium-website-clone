@@ -1,2 +1,2 @@
 # Medium-website-clone
-This website was create by Bootsrap 
+This website was create by Bootstrap 
