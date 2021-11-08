@@ -1,5 +1,5 @@
 # Medium-website-clone
-This website was create using HTML CSS3 and Bootsrap5
+This website was created with HTML CSS3 and Bootstrap5
 
 ## Created with
 * HTML5
